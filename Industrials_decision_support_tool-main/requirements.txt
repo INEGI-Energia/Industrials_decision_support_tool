@@ -1,5 +1,0 @@
-pandas
-plotly
-matplotlib
-CoolProp
-cantera
